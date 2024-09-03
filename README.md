@@ -11,7 +11,9 @@
 - watch few videos and pick one you like most - try to install reproduce and record the final video process - it should be complex task (see echohive channel in youtube etc.,.) and should use claude 3.5 sonnet extension. you should demonstrate - it can be webapp, mobile app or anything end2end
 - artifact - demo video of what you did along with code you did 
 
-### c) Multimodal capabilities of gemini , claude and gpt4o - - video audio and images and text - demonstrate with colab ten advanced features of ten domains like coding, videos, images, etc.,. 
+### c) Multimodal capabilities of gemini , claude and gpt4o  
+- video audio and images and text
+- demonstrate with colab ten advanced features of ten domains like coding, videos, images, etc.,. 
 - artifact - colab with a demo video of what you did 
 
 ### d) Showcase 10 very novel usecases of long context of gemini by actually demoing and writign medium article (With help of gemini) of these.
