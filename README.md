@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/ffc1149f-b8b4-4695-ba0f-9aaeb42a6a8b
 # Assignment 1: Experimenting with foundation models
 
 ## Parts
@@ -28,5 +27,5 @@ https://github.com/user-attachments/assets/ffc1149f-b8b4-4695-ba0f-9aaeb42a6a8b
 
 ## Videos
 https://drive.google.com/drive/u/0/folders/1Q1aSLTfP3R7ougK78yQwjX2CkjDLCuNX 
-
-
+### Part B
+https://github.com/user-attachments/assets/ffc1149f-b8b4-4695-ba0f-9aaeb42a6a8b
