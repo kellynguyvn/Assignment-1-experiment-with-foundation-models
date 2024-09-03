@@ -13,7 +13,7 @@
 ### c) Multimodal capabilities of gemini , claude and gpt4o - - video audio and images and text - demonstrate with colab ten advanced features of ten domains like coding, videos, images, etc.,. 
 - artifact - colab with a demo video of what you did 
 
-### d) showcase 10 very novel usecases of long context of gemini by actually demoing and writign medium article (With help of gemini) of these.
+### d) Showcase 10 very novel usecases of long context of gemini by actually demoing and writign medium article (With help of gemini) of these.
 - artifact - colab with a demo video of what you did 
 
 ### e) Do a VC pitch related all artifacts using claude 3.5  of a novel startup project (check my video of how i do it)
