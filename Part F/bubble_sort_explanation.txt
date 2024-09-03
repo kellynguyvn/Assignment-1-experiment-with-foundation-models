@@ -1,0 +1,36 @@
+Bubble Sort Algorithm Explanation
+
+The following Python code implements the bubble sort algorithm:
+
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+Here's how it works:
+
+1. The function `bubble_sort` takes an array `arr` as input.
+
+2. `n = len(arr)` gets the length of the array.
+
+3. The outer loop `for i in range(n):` runs `n` times, where `n` is the length of the array. This ensures that we make enough passes through the array to sort all elements.
+
+4. The inner loop `for j in range(0, n-i-1):` is responsible for comparing adjacent elements:
+   - It runs from 0 to `n-i-1` because:
+     a) In each iteration of the outer loop, the largest element "bubbles up" to its correct position at the end.
+     b) So, we don't need to check the last `i` elements in subsequent passes.
+
+5. The condition `if arr[j] > arr[j+1]:` compares adjacent elements.
+
+6. If the element at index `j` is greater than the element at index `j+1`, they are swapped:
+   `arr[j], arr[j+1] = arr[j+1], arr[j]`
+   This is Python's concise way of swapping two values.
+
+The algorithm gets its name "bubble sort" because larger elements "bubble up" to their correct positions at the end of the array in each pass.
+
+Time Complexity: O(n^2) in the worst and average cases, where n is the number of elements.
+Space Complexity: O(1) as it sorts in-place.
+
+Bubble sort is not efficient for large datasets but is simple to understand and implement, making it useful for educational purposes or for sorting very small arrays.
